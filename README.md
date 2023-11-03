@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Natasya Eliza (she/her)
+### major projects in support of the Bachelors of Business Administration at California State Polytechnic University, Pomona, CA a.k.a. CPP:))
+1. business intelligence for excel
+2. advanced analytics, Python/Pandas
+3. early stage data science experiences
+4. cloud infrastructures (cloud9 IDE)
+5. supervised machine learning
 
 <!--
 **natasyaeliza/natasyaeliza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
