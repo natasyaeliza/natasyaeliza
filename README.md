@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Natasya Eliza (she/her)
+### Natasya Eliza (she/her)
 ### major projects in support of the Bachelors of Business Administration at California State Polytechnic University, Pomona, CA a.k.a. CPP:))
 1. business intelligence for excel
 2. advanced analytics, Python/Pandas
